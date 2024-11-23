@@ -11,6 +11,7 @@ void sort(int arr[], int size) {
     }
 }
 int main() {
+    //张三给main函数添加注释
 	int arr[] = { 23,89,45,67,43,78 };
 	int size = sizeof(arr) / sizeof(int);
 	sort(arr, int size);
