@@ -1,5 +1,6 @@
 #include <iostream>
 //李四给sort函数添加注释
+void quikSort(){}
 void sort(int arr[], int size) {
     for(int i=0;i<size-1;++i){
         for(int j=0;j<size-1-i;++j){
